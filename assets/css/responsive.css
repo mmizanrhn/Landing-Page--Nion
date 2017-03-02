@@ -1,0 +1,161 @@
+/*
+* ----------------------------------------------------------------------------------------
+Author       : Creativepersonal
+Template Name: Nion - Super Professional Personal Portfolio Template
+Version      : 1.0
+* ----------------------------------------------------------------------------------------
+*/
+
+
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1280px) {}
+
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 767px) and (max-width: 991px) {
+    .mainmenu .navbar-nav li a {
+        padding: 30px 11px;
+        font-size: 12px;
+    }
+    .menu-bg .mainmenu .navbar-nav li a {
+        padding: 20px 11px;
+        font-size: 12px;
+    }
+    .single-project-done {
+        text-align: center;
+    }
+    .single-testimonial p {
+        padding: 0 50px;
+    }
+    .single-contact-details i {
+        margin-bottom: 20px;
+    }
+    .single-project-complete {
+        margin-bottom: 30px;
+    }
+    .about-text {
+        padding-top:0px;
+    }
+    .about-text h3 {
+        font-size: 18px;
+    }
+}
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+    .site-header .navbar-collapse {
+        opacity: 1;
+        visibility: visible;
+    }
+    .navbar-toggle .icon-bar {
+        background: #FFCB2F;
+    }
+    .menu-bg .navbar-toggle .icon-bar {
+        background: #FFCB2F;
+    }
+    .navbar-toggle {
+        margin-right: 0px;
+        margin-top: -30px;
+    }
+    .navbar {
+        min-height: 0px;
+    }
+    .mainmenu .navbar-nav li a {
+        padding: 11px 15px;
+    }
+    .mainmenu .navbar-nav li a:hover {
+        color: #FFCB2F;
+    }
+    .menu-bg .mainmenu .navbar-nav li a:hover {
+        color: #FFCB2F;
+    }
+    .menu-bg .mainmenu .navbar-nav li a {
+        padding: 11px 15px;
+    }
+    .navbar-fixed-bottom .navbar-collapse,
+    .navbar-fixed-top .navbar-collapse {
+        max-height: 420px;
+    }
+    .navbar-toggle {
+        margin-top: -30px;
+    }
+    .navbar-collapse {
+        background: rgba(0, 0, 0, .9);
+    }
+    .menu-bg .navbar-collapse {
+        background: rgba(0, 0, 0, .9);
+    }
+    .welcome-image-area,
+    .welcome-video-area {
+        padding-top: 120px;
+    }
+    .welcome-image-area h2,
+    .single-slide-item h2,
+    .welcome-video-area h2 {
+        font-size: 16px;
+    }
+    .section-title h2 {
+        font-size: 22px;
+    }
+    .about-text h2 {
+        font-size: 22px;
+    }
+    .single-testimonial p {
+        padding: 0 10px;
+    }
+    .single-project-done {
+        text-align: center;
+    }
+    .footer-area p,
+    .actions,
+    .footer-social-link {
+        text-align: center;
+    }
+    .header-text p {
+        font-size: 16px;
+        padding: 0;
+        line-height: 28px;
+    }
+    .header-text .home-arrow-down {
+        bottom: -60px;
+    }
+    .about-text {
+        padding-top: 30px;
+    }
+    .about-text h3 {
+        margin-bottom: 20px;
+    }
+    .single-project-complete {
+        margin-bottom: 30px;
+    }
+    .single-experience span {
+        float: none;
+        margin-top: 0;
+        margin-bottom: 14px;
+        display: inline-block;
+    }
+    .single-contact-details i {
+        margin-bottom: 20px;
+    }
+    .header-text img {
+        width: 100px;
+    }
+}
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+
+/*
+* ----------------------------------------------------------------------------------------
+Author       : Creativepersonal
+Template Name: Nion - Super Professional Personal Portfolio Template
+Version      : 1.0
+* ----------------------------------------------------------------------------------------
+*/
