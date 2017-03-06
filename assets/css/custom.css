@@ -195,7 +195,7 @@ fieldset {
 .welcome-image-area {
     position: relative;
     height: 100%;
-    background: url(../images/2.jpg);
+    background: url(../images/blog-macbook-air-2.jpg);
     background-size: cover;
     z-index: 1;
 }
@@ -738,7 +738,7 @@ fieldset {
 .complete-project-area {
     padding: 160px 0px;
     position: relative;
-    background: url(../images/2.jpg);
+    background: url(../images/Glaciers.jpg);
     background-size: cover;
     z-index: 1;
     background-attachment: fixed;
@@ -970,7 +970,7 @@ ul.work li.active {
 .testimonial-area {
     padding: 100px 0px;
     position: relative;
-    background: url(../images/3.jpg);
+    background: url(../images/osanimation.jpg);
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;

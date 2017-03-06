@@ -1,11 +1,3 @@
-/*
- * ----------------------------------------------------------------------------------------
- Author       : Creativepersonal
- Template Name: Nion - Super Professional Personal Portfolio Template
- Version      : 1.0
- * ----------------------------------------------------------------------------------------
- */
-
 
 (function ($) {
     'use strict';
